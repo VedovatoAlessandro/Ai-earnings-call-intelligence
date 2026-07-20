@@ -1,0 +1,6 @@
+{
+  "name": "AI Earnings Call Summarizer Hub",
+  "description": "An interactive portfolio dashboard and live mentor guide for building an AI Earnings Call Summarizer. Includes structured Python code, system prompts, roadmaps, and a fully functional live simulator powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
