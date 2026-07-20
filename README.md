@@ -11,7 +11,7 @@ Built in a single weekend to demonstrate full-stack Python engineering, professi
 
 ---
 
-## 🎯 Project Overview & Recruiter Value
+##  Project Overview & Recruiter Value
 
 When tech companies or hedge funds review student portfolios, they are often fatigued by generic "to-do lists" or "movie recommendation" apps. This project demonstrates **deep domain knowledge** paired with practical engineering skill:
 - **Financial Rigor**: Standard NLP pipelines fail on corporate jargon. This tool implements highly structured prompts matching institutional buy-side frameworks to pull exact numbers, quantitative guidance ranges, and Capex shifts.
@@ -20,7 +20,7 @@ When tech companies or hedge funds review student portfolios, they are often fat
 
 ---
 
-## 🛠️ Architecture & Summarization Pipeline
+##  Architecture & Summarization Pipeline
 
 ```
 ┌────────────────────────────────────────────────────────┐
@@ -68,7 +68,7 @@ When tech companies or hedge funds review student portfolios, they are often fat
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Multi-Source Ingestion**: Choose from pre-loaded sample earnings calls (Nvidia, Apple, Tesla) or drag-and-drop any custom transcript `.txt` file.
 - **C-Suite Sentiment Gauge**: Interactive gauge chart rating the tone of the call on an institutional scale (-10 to +10).
@@ -78,7 +78,7 @@ When tech companies or hedge funds review student portfolios, they are often fat
 
 ---
 
-## 🚀 Quick Start & Installation
+##  Quick Start & Installation
 
 ### Prerequisites
 - Python 3.9 or higher
@@ -109,7 +109,7 @@ The app will automatically launch in your default web browser at `http://localho
 
 ---
 
-## 📈 Future Roadmaps & Enhancements
+##  Future Roadmaps & Enhancements
 
 - [ ] **SEC EDGAR Integration**: Automatically fetch transcripts and 10-K filings directly from the SEC database using ticker symbols.
 - [ ] **Voice-to-Text Ingestion**: Integrate whisper-1 model to process live audio streams of earnings call recordings directly.
