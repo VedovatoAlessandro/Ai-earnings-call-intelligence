@@ -6,6 +6,7 @@
 [![Plotly](https://img.shields.com/badge/Data_Viz-Plotly-3F4F75.svg)](https://plotly.com/)
 
 
+
 An institutional-grade, AI-powered financial intelligence application designed to ingest long, unstructured corporate earnings call transcripts and output high-fidelity executive summaries, management sentiment analysis, capital allocation guides, and key bullish/bearish catalysts. 
 
 Built in a single weekend to demonstrate full-stack Python engineering, professional prompt engineering, and quant-focused data visualization techniques suitable for modern FinTech, equity research, and AI data science roles.
