@@ -1,6 +1,7 @@
 # AI Earnings Call Summarizer & Analyst Dashboard
 
 
+
 [![Python](https://img.shields.com/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.com/badge/Frontend-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![OpenAI](https://img.shields.com/badge/LLM-OpenAI_GPT--4o--mini-00A67E.svg)](https://openai.com/)
